@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @colinlpaterson
-- 👀 I’m interested in R, finance, blockchain
-- 🌱 I’m currently learning R, Excel (M & DAX), SQL
-- 💞️ I’m looking to collaborate on awesome projects
+- 👀 I’m interested in data engineering and analytics.
+- 🌱 I’m currently learning R, SQL, Python.
+- 💞️ I’m looking to collaborate and learn.
 - 📫 How to reach me e: colinlpaterson@gmail or https://www.linkedin.com/in/colin-paterson-4a5b3b/
 
 <!---
