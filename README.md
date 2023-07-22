@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @colinlpaterson
-- 👀 I’m interested in SQL, R reporting and analytics.
+- 👀 I’m interested in SQL and R for reporting and analytics.
 - 🌱 I’m currently learning SQL.
 - 💞️ I’m looking to collaborate and learn.
 - I'm currently reading the Fabric of Reality by David Deutsch.
