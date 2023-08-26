@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @colinlpaterson
-- 👀 I’m interested in SQL and R for reporting and analytics.
-- 🌱 I’m currently learning SQL.
+- 👀 I’m interested in SQL and R for reporting, analytics, and development.
 - 💞️ I’m looking to collaborate and learn.
-- I'm currently reading the Fabric of Reality by David Deutsch.
+- 📖 I'm currently reading the Road to Character by David Brooks.
 - 📫 How to reach me e: colinlpaterson@gmail or https://www.linkedin.com/in/colin-paterson-4a5b3b/
 
 <!---
