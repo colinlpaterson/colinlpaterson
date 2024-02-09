@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @colinlpaterson
 - 👀 I’m interested in SQL and R for reporting, analytics, and development.
 - 💞️ I’m seeking to collaborate, learn, and most importantly - have fun.
-- 📖 I'm currently reading the Road to 'The War on the West' by Douglas Murray.
+- 📖 I'm currently reading 'The War on the West' by Douglas Murray.
 - 📫 How to reach me e: colinlpaterson@gmail or https://www.linkedin.com/in/colin-paterson-4a5b3b/
 
 <!---
