@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @colinlpaterson
-- 👀 I’m interested in using programming and computation to solve problems in the finance domain.
+- 👀 I’m interested in using programming and computational finance.
 - 💞️ I’m seeking to collaborate, learn, and most importantly - have fun.
 - 📖 I'm enjoy reading Philosophy.
 - 📫 How to reach me e: colinlpaterson@gmail or https://www.linkedin.com/in/colin-paterson-4a5b3b/
